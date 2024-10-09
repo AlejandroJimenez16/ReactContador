@@ -12,12 +12,13 @@ Este proyecto consiste en un contador que permite incrementar su valor de forma 
 1. Clona este repositorio en tu máquina local:
 
    ```bash
-   git clone (url-del-repositorio)
+   git clone https://github.com/AlejandroJimenez16/ReactContador.git
    ```
+   
 1. Navega al directorio del proyecto:
 
    ```bash
-   cd nombre-del-proyecto
+   cd ReactContador
    ```
    
 3. Instala las dependencias necesarias:
