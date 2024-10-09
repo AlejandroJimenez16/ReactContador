@@ -11,20 +11,27 @@ Este proyecto consiste en un contador que permite incrementar su valor de forma 
 ## Instalación
 1. Clona este repositorio en tu máquina local:
 
-   **git clone (url-del-repositorio)**
+   ```bash
+   git clone (url-del-repositorio)
+   ```
+1. Navega al directorio del proyecto:
 
-2. Navega al directorio del proyecto:
-
-   **cd nombre-del-proyecto**
-
+   ```bash
+   cd nombre-del-proyecto
+   ```
+   
 3. Instala las dependencias necesarias:
 
-   **npm install**
-
+   ```bash
+   npm install
+   ```
+   
 ## Uso
 Para ejecutar el proyecto en un entorno de desarrollo, usa el siguiente comando:
 
-**npm start**
+```bash
+   npm start
+   ```
 
 Esto abrirá el proyecto en tu navegador en [http://localhost:3000](http://localhost:3000) (por defecto).
 
